@@ -1,4 +1,4 @@
-# simple hospital management system with Java swift 
+# Simple hospital management system with Java swift 
 
 ## Installation instructions 
 
