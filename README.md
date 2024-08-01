@@ -1,1 +1,5 @@
-simple hospital management system with java swift 
+# simple hospital management system with Java swift 
+
+## Installation instructions 
+
+Use .jar files in /src
